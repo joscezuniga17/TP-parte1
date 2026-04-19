@@ -13,6 +13,7 @@ El objetivo es brindar una experiencia simple de gestión musical personalizada.
 
 ### Diagrama de entidad relación (DER): 
 
-<img width="1542" height="766" alt="Capturadepantalla-DER" src="https://github.com/user-attachments/assets/eb8fe722-1449-411b-a7d9-4e1775a36c41" />
+<img width="1168" height="673" alt="Captura de pantalla 2026-04-19 164051" src="https://github.com/user-attachments/assets/d293ac6a-f76f-44f1-a1b4-16b06db50ba9" />
+
 
 
